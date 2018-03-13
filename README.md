@@ -2,17 +2,18 @@
 SSD
 
 
-Class ID:  
+Class ID:  Eelektrik
 
 SRS ID: CST116SRS06  
 
-Unresolved Issues:  
+Unresolved Issues: Unable to get partner stuff
+Unfinished
 
 Notes:  
 
-Partner Left:  
+Partner Left:  hassaa
 
-Partner Right:  
+Partner Right:  Hussain
 
 ---
 
